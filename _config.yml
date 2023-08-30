@@ -23,3 +23,4 @@ google_analytics_id: #UA-XXXX-Y
 
 # Build settings
 markdown: kramdown
+excerpt_separator: <!--more-->
