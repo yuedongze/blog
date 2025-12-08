@@ -9,6 +9,7 @@ title: "AI should only run as fast as we can catch up"
 Recently I have spoke with two of my friends who all had fun playing with AI.
 
 Last month, I met with Eric, a fearless PM at a medium size startup who recently got into vibe coding with Gemini.
+<!--more-->
 
 > After getting familiarized with Gemini, Eric was genuinely amazed by how AI quickly turns prompt into playable web applications. It served great purpose as a first prototype to communicate ideas to designers and engineers. But Eric really wanted to skip those steps and directly ship it to prod. But he couldn't really understand that Gemini actually built a single-page HTML file that merely looks like a working app. Sadly, one cannot build a reliable enterprise product out of this. And there is really no effective way for Eric to catch up on these technical details and outpace the engineering team himself.
 
