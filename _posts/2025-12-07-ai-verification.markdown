@@ -64,4 +64,4 @@ I can think of a few ideas to kickoff verification engineering:
 
 I believe whoever figures out ways to effectively verify more complex tasks using human brains, can gain the most benefit out of the AI boom. Maybe we need to discard traditional programming languages and start programming in abstract graph-like dataflow representations where one can easily tell if a thing is done right or wrong despite its language or implementation details.
 
-Maybe our future is like the one depitected in Severance - we look at computer screens with wiggly numbers and whatever "feels right" is the right thing to do. We can harvest these effortless low latency "feelings" that nature gives us to make AI do more powerful work.
+Maybe our future is like the one depicted in Severance - we look at computer screens with wiggly numbers and whatever "feels right" is the right thing to do. We can harvest these effortless low latency "feelings" that nature gives us to make AI do more powerful work.
