@@ -1,3 +1,7 @@
+---
+layout: post
+title: "AI should only run as fast as we can catch up"
+---
 ## AI should only run as fast as we can catch up.
 
 ### The story of Daniel and Eric
