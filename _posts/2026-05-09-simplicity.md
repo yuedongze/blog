@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Simplicity Trap: Why AI is making us "simple" in the wrong way (or not)"
+title: "The Simplicity Trap: Why AI is making us \"simple\" in the wrong way (or not)"
 ---
 People like to talk about how simple things are.
 
