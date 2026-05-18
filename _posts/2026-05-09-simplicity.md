@@ -12,7 +12,7 @@ In engineering, we use "simple" as the ultimate compliment - we want simple syst
 
 <!--more-->
 
-#### Two flavors of "Simple"
+### Two flavors of "Simple"
 
 **Conceptual Simplicity** is the first kind of simplicity that typically resonates with most of us. This is the "nifty" stuff - when you spend 3 days thinking to just write ten lines of code that magically achieves all the requirements. It's the art of finding the perfect abstraction, reusing components to their maximum, and keeping the footprint so tiny that the entire logic fits inside your head and can be effortlessly written on a napkin. The solution is simple, it's elegant, but it's hard to get there. It requires understanding all the requirements inside-out, and looking for similarities and pruning the unnecessary until only the crux of the system remains.
 
